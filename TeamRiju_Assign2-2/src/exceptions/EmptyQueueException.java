@@ -3,11 +3,8 @@ package exceptions;
 /**
  * EmptyQueueException class
  * 
- * @author Dongyeon Kim
- * @author Seungjin Moon
- * @author Yoonju Baek
- * 
- * @version Mar 28 2022
+ * @author Team-Riju
+ * @version Nov 20 2023
  *
  */
 
